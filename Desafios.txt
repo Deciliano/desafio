@@ -1,0 +1,80 @@
+﻿1- Faça um algoritmo que leia a idade de uma pessoa expressa
+ em anos, meses e dias e escreva a idade dessa pessoa expressa
+ apenas em dias. Considerar ano com 365 dias e
+ mês com 30 dias.
+
+
+
+2- Escreva um algoritmo para ler o salário mensal atual de
+ um funcionário e o percentual de reajuste.
+ Calcular e escrever o valor do novo salário.
+
+
+
+3- Ler as notas da 1a. e 2a. avaliações de um aluno.
+ Calcular a média aritmética simples e escrever uma mensagem
+ que diga se o aluno foi ou não aprovado 
+(considerar que nota igual ou maior que 6 o aluno é aprovado).
+ Escrever também a média calculada.
+
+
+
+4- Ler 3 valores e devolver o maior deles.
+
+
+
+5- Ler 3 valores e devolver o menor deles.
+
+
+
+6- Função que recebe um array com 5 números inteiros,
+ e retorna um array com os mesmo valores na ordem inversa. 
+        
+	--Ex: Se eu passar um array [7, 25, 14, 5, 2],
+	a função deve retornar o array [2, 5, 14, 25, 7]
+
+
+
+7- Função que receba um número inteiro e retorne o fatorial
+ dele.
+
+
+
+8- Função que recebe array de números inteiros e devolve maior
+ numero do array
+        
+	--Ex: Se eu passar um array [34, 2, 56, 14], 
+	a função deve retornar o numero 56
+
+.
+
+9- Função recebe recebe array e devolve media
+
+        --Ex: Se eu passar um array [5, 7, 2], 
+	a função deve retornar a média 4,6
+
+        Se eu passar um array [6, 5, 7, 8], 
+	a função deve retornar a média 6,5 
+
+
+
+10 - Recebe uma frase e devolve ela com a ordem das palavras
+ invertida
+
+    Se eu passar a String "Eu sou o goku", a função deve
+ retornar a String "goku o sou Eu"
+
+
+
+11- Crie um algoritmo que, dado um número informado pelo
+ usuário, imprima no terminal a tabuada dele de 1 a 10.
+ USANDO ESTRUTURA DE REPETIÇÃO
+
+        --Ex: Se for passado o numero 5 para a função,
+	 deve aparecer no terminal:
+    
+5 x 1 = 5
+    5 x 2 = 10
+    5 x 3 = 15
+    5 x 4 = 20
+    ...
